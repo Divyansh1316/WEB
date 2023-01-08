@@ -1,0 +1,28 @@
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-2xs: 10px;
+  --font-size-xs: 20px;
+  --font-size-sm: 24px;
+  --font-size-base: 32px;
+  --font-size-lg: 34px;
+  --font-size-xl: 36px;
+  --font-size-2xl: 48px;
+  --font-size-3xl: 55px;
+  --font-size-4xl: 64px;
+
+  /* Colors */
+  --color-gray-100: rgba(216, 255, 255, 0.8);
+  --color-white: #fff;
+  --color-turquoise-100: #58dbdb;
+  --color-turquoise-200: #40d6d6;
+  --color-indigo: #13124f;
+  --color-violet-100: #8383e2;
+
+  /* border radiuses */
+  --br-sm: 20px;
+  --br-md: 30px;
+  --br-lg: 83px;
+}
